@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning vuejs + mongodb
 - 🤔 I’m looking for help with ...
 - 💬 My blog: https://www.esyka.top
+
+[![Anurag's GitHub stats](https://github-stats.esyka.top/api?username=esyka114514)](https://github.com/esyka114514)
